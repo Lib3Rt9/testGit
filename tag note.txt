@@ -1,0 +1,3 @@
+use                   git checkout <tagname>                  for Checking out Tags
+
+see tag name          git tag
