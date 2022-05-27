@@ -1,0 +1,35 @@
+[33mcommit fa1dd557dfd57c6fe756b5cd316030c573e9f9da[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lib3Rt9 <phamgiaphuc011709@gmail.com>
+Date:   Fri May 27 22:39:09 2022 +0700
+
+    - Delete android and win folder in trunk/build folder from WorkingCopy1
+
+[33mcommit b2d226f9c01381776e2ae727065518499d2dbf1f[m
+Author: Lib3Rt9 <phamgiaphuc011709@gmail.com>
+Date:   Fri May 27 22:36:45 2022 +0700
+
+    - already have data, remove trunk; - rename data to trunk
+
+[33mcommit 0f6904ce8b67dc6a787caacb2f0a67569185d38f[m
+Author: Lib3Rt9 <phamgiaphuc011709@gmail.com>
+Date:   Fri May 27 22:30:21 2022 +0700
+
+    + Add folder branches and tags; + Export trunk and add to git
+
+[33mcommit f79e48809ad5e46a8b7d924581dc4acb7cc14852[m
+Author: Lib3Rt9 <phamgiaphuc011709@gmail.com>
+Date:   Fri May 27 22:22:59 2022 +0700
+
+    + add WorkingCopy1
+
+[33mcommit 493e055f56d6b7ce195a6c20c4509239f8d44b08[m
+Author: Lib3Rt9 <phamgiaphuc011709@gmail.com>
+Date:   Fri May 27 22:17:11 2022 +0700
+
+    Update README
+
+[33mcommit e428723212fb404deb6a5e0c0dc1528cad4c224e[m
+Author: Lib3Rt9 <74595112+Lib3Rt9@users.noreply.github.com>
+Date:   Fri May 27 22:12:50 2022 +0700
+
+    Initial commit

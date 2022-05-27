@@ -1,0 +1,1 @@
+Delete android and win folder in trunk/build folder from WorkingCopy1
