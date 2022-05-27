@@ -1,0 +1,1 @@
+I used 2 local repos to test resolve conflict
