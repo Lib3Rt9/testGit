@@ -1,0 +1,2 @@
+In git, checkout WorkingCopy1 to WorkingCopy2 to other location, the WorkingCopy2 does not have the same config with WorkingCopy1
+-> WorkingCopy2 does not point to WorkingCopy1 repo
