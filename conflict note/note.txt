@@ -1,0 +1,6 @@
+to resolve conflict in git, use:
+
+- use          git merge <...>
+- change git branch
+- edit conflict file
+- use git pull
