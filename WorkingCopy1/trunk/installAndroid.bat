@@ -23,4 +23,8 @@ popd
 echo.
 pause
 
+<<<<<<< ours
 echo aassss
+=======
+echo aaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> theirs

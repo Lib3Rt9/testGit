@@ -12,4 +12,8 @@ popd
 :end
 
 
+<<<<<<< ours
 echo aaxxxxx
+=======
+echo aaaaaaaaaaaaaaaaaaaaa
+>>>>>>> theirs

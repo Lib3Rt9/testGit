@@ -1,0 +1,9 @@
+diff a/WorkingCopy1/trunk/installAndroid.bat b/WorkingCopy1/trunk/installAndroid.bat	(rejected hunks)
+@@ -23,4 +23,4 @@ popd
+ echo.
+ pause
+ 
+-echo aaaaaaaaaaaaaaaaaaaa
+\ No newline at end of file
++echo aaaaaaaaaaaaaaaaaaaaaa
+\ No newline at end of file

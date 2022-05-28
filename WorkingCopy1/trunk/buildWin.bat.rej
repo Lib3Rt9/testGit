@@ -1,0 +1,9 @@
+diff a/WorkingCopy1/trunk/buildWin.bat b/WorkingCopy1/trunk/buildWin.bat	(rejected hunks)
+@@ -12,4 +12,4 @@ popd
+ :end
+ 
+ 
+-echo aaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb
+\ No newline at end of file
++echo aaaaaaaaaaaaaaaaaaaaa
+\ No newline at end of file
