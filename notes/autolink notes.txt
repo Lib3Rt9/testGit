@@ -1,0 +1,2 @@
+use 'auto link references' for linking to external sources, achieved by go to github web, turn to setting, setup config auto link references
+
