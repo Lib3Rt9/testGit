@@ -1,0 +1,4 @@
+to create git ignore:
+- open git bash
+- navigate to location of repo
+- create a .gitignore file: touch .gitignore
