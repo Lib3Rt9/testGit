@@ -1,0 +1,24 @@
+diff --git a/WorkingCopy1/trunk/buildWin.bat b/WorkingCopy1/trunk/buildWin.bat
+index 2f9077c..b757f63 100644
+--- a/WorkingCopy1/trunk/buildWin.bat
++++ b/WorkingCopy1/trunk/buildWin.bat
+@@ -12,4 +12,4 @@ popd
+ :end
+ 
+ 
+-echo aaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb
+\ No newline at end of file
++echo aaaaaaaaaaaaaaaaaaaaa
+\ No newline at end of file
+diff --git a/WorkingCopy1/trunk/installAndroid.bat b/WorkingCopy1/trunk/installAndroid.bat
+index c770560..36df9c1 100644
+--- a/WorkingCopy1/trunk/installAndroid.bat
++++ b/WorkingCopy1/trunk/installAndroid.bat
+@@ -23,4 +23,4 @@ popd
+ echo.
+ pause
+ 
+-echo aaaaaaaaaaaaaaaaaaaa
+\ No newline at end of file
++echo aaaaaaaaaaaaaaaaaaaaaa
+\ No newline at end of file
