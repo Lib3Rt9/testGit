@@ -1,0 +1,5 @@
+to create patch:
+
+- git diff
+- git diff > <patch name>
+(- relocate the patch file) - optional
